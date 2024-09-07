@@ -1,0 +1,22 @@
+3 Types of Recommender Systems
+    1. Content Based -- Recommend items similar to what the user has liked in the past
+    2. Collaborative Filtering -- Recommend items based on what similar users have liked
+    3. Hybrid Models -- Combine the above two methods to provide recommendations
+
+Earlier, Youtube used Content based Recommendation system, but lately it has switched to Hybrid.
+Startups either do Content based or Collaborative Filtering, but as they grow, they switch to Hybrid.
+
+Why Hybrid?
+    1. Content based systems are limited by the features of the items
+    2. Collaborative Filtering systems are limited by the data available
+    3. Hybrid systems can overcome these limitations
+
+In this project, we will build a Content based Recommender System.
+
+
+Project Flow: 
+    1. Load the data - Tmdb_5000_credits.csv and Tmdb_5000_movies.csv
+    2. Pre-process the data
+    3. Model Building
+    4. Convert the Model to Website
+    5. Deploy the Website
