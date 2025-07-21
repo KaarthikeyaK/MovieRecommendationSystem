@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Movie Recommendation System
 
 This project is a **Movie Recommendation System** that uses the **TMDB 5000 dataset** and cosine similarity to recommend up to 10 movies based on user preferences. The recommendation system is built in Python and is deployed via a web interface using **Streamlit**.
@@ -286,4 +285,3 @@ This project is open source and available under the MIT License.
 - Streamlit for the frontend framework
 - FastAPI for the backend framework
 - Scikit-learn for the machine learning algorithms
->>>>>>> d9092e05 (Full Stack Changes - Integrated TMDBAPI using FastAPI for realtime movie recommendations)
