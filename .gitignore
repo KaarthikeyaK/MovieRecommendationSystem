@@ -9,3 +9,7 @@
 .env.production
 movies_dict.pkl
 similarity.pkl
+venv/
+__pycache__/
+.gitattributes
+.vscode/
